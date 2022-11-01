@@ -4,7 +4,7 @@
 **EyebouImpact/EyebouImpact** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 We are currently working on <b> Eyebou’s Eye Health Machine Learning Models </b>
+🔭 We are currently working on <b> Eyebou’s Eye Health Machine Learning Models </b>
 <p>- 🌱 About us
 <p> We are a team of AI, design, engineering and eye health specialists working to make eye care more accessible and affordable through technology. Our goal in the project is to a) collect patient data via our iOS application b) clean and analyse that data via our Rails platform c) use our open source machine learning algorithms to detect any eye health abnormalities from the data collected and assist the work of optometrists round the world to see more patients. </p>
 - 👯 Overview
